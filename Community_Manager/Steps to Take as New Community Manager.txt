@@ -14,3 +14,5 @@ now we can think of this position as CEO of the project.
 THINGS TO DO AS THE NEW COMMUNITY MANAGER
 - Update the recovery Phone Number and Email for TheInformationParty@gmail.com
 	This is currently tied to the active community manager and probably is best practice to keep it that way.
+- Update First and Last name on Mailchimp
+	As community manager your name should be on anything related to interacting with the public
