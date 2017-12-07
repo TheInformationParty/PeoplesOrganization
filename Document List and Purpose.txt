@@ -6,3 +6,6 @@ This is the what it means to be a member of the information party.
 
 Mission Statement - 
 This is what the existance of the parties sole purpose is
+
+Application Development Plam -
+This document is the description and plan of attack for the development of the info parties online platform
