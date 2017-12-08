@@ -9,3 +9,6 @@ This is what the existance of the parties sole purpose is
 
 Application Development Plam -
 This document is the description and plan of attack for the development of the info parties online platform
+
+Current Goals Timeline -
+This is the current location for tracking what are active goals are and how they are broken up into 8 week sections

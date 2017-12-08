@@ -8,4 +8,4 @@ Representatives List(s) -
 This document is a single location for the election results for each representative in order to know the number of votes required to swing the election along with who and what party is currently in power.
 
 USA MAP -
-This is how the country is divided into 3 parts so that the highest oversight of the party is managed by 3 people.
+This is how the country is divided into 3 parts so that the highest oversight of the party is managed by 3 community managers who oversee roughly 1/3 the countries population.
