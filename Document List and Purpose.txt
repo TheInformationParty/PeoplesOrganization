@@ -12,3 +12,6 @@ This document is the description and plan of attack for the development of the i
 
 Current Goals Timeline -
 This is the current location for tracking what are active goals are and how they are broken up into 8 week sections
+
+New Member Quick Start Guide -
+This is a set of 5 tasks that should allow someone who is completely new to become fully involved at a level that is most comfortable to them.
